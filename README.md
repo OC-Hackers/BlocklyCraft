@@ -1,5 +1,5 @@
 # Introduction
-~~I created BlocklyCraft to play with my kids and try to get them into more creative gameplay. I'm a huge fan of visual programming since the early days of [Pure Data][pd]: live coding is fun and live coding with Minecraft and with kids is even better!
+~~I created BlocklyCraft to play with my kids and try to get them into more creative gameplay. I'm a huge fan of visual programming since the early days of [Pure Data][pd]: live coding is fun and live coding with Minecraft and with kids is even better!~~
 
 just kidding this thing is really bad
 
