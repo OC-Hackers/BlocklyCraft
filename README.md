@@ -3,6 +3,10 @@
 
 just kidding this thing is really bad
 
+## If you are reading this you must have searched endlessly for a solution to some endless crashing of this plugin. The error we faced was the HTTP Server running the web block code UI continually crashed. 
+
+also this project uses ant
+
 BlocklyCraft started out as a copy/paste of the [work][pr] of Michael Vorburger & Lauro Canonica for the [Devoxx4Kids Lugano][Devoxx] event.
 
 BlocklyCraft is based on [ScriptCraft][sc], a Minecraft Mod that lets you extend Minecraft using the Javascript Programming Language. ScriptCraft makes modding Minecraft easier. It includes a logo-like "Drone" object that can be used to build complex buildings, roads, villages, even entire cities. It also includes many other features that make modding Minecraft easier.
