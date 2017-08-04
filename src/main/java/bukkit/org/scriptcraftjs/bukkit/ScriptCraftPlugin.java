@@ -56,9 +56,10 @@ public class ScriptCraftPlugin extends JavaPlugin implements Listener
 
 
     @Override public void onDisable() {
+        super.onDisable();
         httpServer.stop();
         this.getLogger().info("HTTP web server stopped");
-        super.onDisable();
+        
     }
 
     
